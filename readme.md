@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/kPQkjkj.png" width="1020" height="380">
 # DencrnSMP
-The official SMP created by Dencrn for tech youtubers or people that are interested in tech
+The official SMP created by Dencrn for tech youtubers or people that are apart of the tech community
 
 # Essentials required
 MultiMC: https://multimc.org/ <br>
